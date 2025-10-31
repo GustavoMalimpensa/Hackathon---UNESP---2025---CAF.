@@ -1,4 +1,4 @@
-# Disparo de Mensagens no WhatsApp
+# Automação para Disparo de Mensagens via WhatsApp
 
 Este projeto implementa uma automação para envio de mensagens no WhatsApp utilizando Python. O código lê dados de clientes a partir de uma planilha Excel, gera mensagens personalizadas e as envia via WhatsApp Web.
 
