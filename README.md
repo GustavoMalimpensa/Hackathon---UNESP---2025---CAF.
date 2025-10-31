@@ -31,4 +31,5 @@ Este projeto implementa uma automação para envio de mensagens no WhatsApp util
     - A planilha deve ter pelo menos duas colunas: `Nome` e `Telefone`.
 
 3. **Execute o script**:
+    - Certifique-se de que o WhatsApp esteja logado no navegador.
     - Execute o script Python para iniciar o processo de envio de mensagens.
