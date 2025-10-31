@@ -24,12 +24,13 @@ for linha in pagina_clientes.iter_rows(min_row=2) :
 
     
     mensagem = (
-        "Olá {nome}, boa tarde!\n\n"
-        "Somos da CAF Máquinas! 🧑🏻‍💻\n\n"
-        "Estamos entrando em contato referente ao status de manutenção da sua máquina! "
-        "Nossa equipe está trabalhando com máxima prioridade para solucionar o seu problema o mais rápido possível!🤩\n\n"
-        "Caso tenha alguma dúvida ou deseje mais informações, entre em contato conosco ou acesse nosso site.\n\n"
-        "🌐 Confira como ficaria: https://www.cafmaquinas.com.br//"
+        "Olá {nome}, tudo bem? Esperamos que sim! 😊\n\n"
+        "Sou o Assistente Virtual SABO, representante da CAF Máquinas! 🧑🏻‍💻\n\n"
+        "Estou entrando em contato sobre a sua aquisição da nossa máquina **Moedor de Carne CAF Gourmet**. "
+        "Como já se passaram 3 meses desde a compra, gostaríamos de saber como está o funcionamento dela. 🤔\n\n"
+        "Caso tenha alguma dúvida ou deseje mais informações, posso te transferir para um atendente, "
+        "ou se preferir, acesse nosso site:\n\n""
+        "🌐 CAF Máquinas : https://www.cafmaquinas.com.br//"
     ).format(nome=nome)
 
     
