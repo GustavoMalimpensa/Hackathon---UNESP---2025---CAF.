@@ -1,4 +1,10 @@
-# Assistente Virtual SABO
+<table>
+  <tr>
+    <td><h1> Assistente Virtual SABO</h1></td>
+    <td><img src="./sabo-.png" alt="Logo do SABO" width="45" style="margin-left:10px; vertical-align:middle;"></td>
+  </tr>
+</table>
+
 
 O programa é uma automação para envio de mensagens no WhatsApp utilizando Python. O código lê dados de clientes a partir de uma planilha Excel, gera mensagens personalizadas e as envia via WhatsApp Web.
 
