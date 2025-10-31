@@ -1,6 +1,6 @@
-# Automação para Disparo de Mensagens via WhatsApp
+# Assistente Virtual SABO
 
-Este projeto implementa uma automação para envio de mensagens no WhatsApp utilizando Python. O código lê dados de clientes a partir de uma planilha Excel, gera mensagens personalizadas e as envia via WhatsApp Web.
+O programa é uma automação para envio de mensagens no WhatsApp utilizando Python. O código lê dados de clientes a partir de uma planilha Excel, gera mensagens personalizadas e as envia via WhatsApp Web.
 
 ## Funcionalidades
 
