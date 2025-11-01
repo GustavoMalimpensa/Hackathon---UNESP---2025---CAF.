@@ -37,9 +37,16 @@ O programa é uma automação para envio de mensagens no WhatsApp utilizando Pyt
     - A planilha deve ter pelo menos duas colunas: `Nome` e `Telefone`.
     - Certifique-se de que a planilha possua uma **aba (guia)** chamada **`basedados`**, pois o script acessa os dados por esse nome.  
 
-2.1 **Após criar a planilha**:
+3. **Após criar a planilha**:
     - Coloque o arquivo **`clientes.xlsx`** na **mesma pasta onde está o script principal**.
 
-3. **Execute o script**:
+4. **Execute o script**:
     - Certifique-se de que o WhatsApp esteja logado no navegador.
     - Execute o script Python para iniciar o processo de envio de mensagens.
+
+    ---
+
+## 🧾 License
+
+This project is licensed under the [MIT License](LICENSE) © 2025 Solution Tech.
+
