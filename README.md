@@ -15,7 +15,6 @@ O programa é uma automação para envio de mensagens no WhatsApp utilizando Pyt
 - Gera mensagens personalizadas incluindo o nome do cliente.
 - Codifica a mensagem em uma URL e a abre no navegador.
 - Localiza e clica no botão de envio usando `pyautogui`.
-- Fecha a aba do navegador e repete o processo para o próximo cliente.
 
 ## Tecnologias Utilizadas
 
